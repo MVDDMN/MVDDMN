@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karl Angelo
+# Hi, I'm Karl Angelo
 
 💻 **Full Stack Developer** | 📊 **Data Analyst** | 🚀 **Problem Solver**
 
@@ -43,6 +43,7 @@ I'm a fast learner who adapts quickly, collaborates effectively, and delivers qu
 * 🚀 Expanding my expertise in modern web technologies
 * 📚 Learning new frameworks and best practices
 * 🤝 Open to freelance and full-time opportunities
+* 🎮 Learning Minecraft modding with Java and IntelliJ IDEA
 
 ## 📫 Let's Connect
 
