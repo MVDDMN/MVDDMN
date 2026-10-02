@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer** | 📊 **Data Analyst** | 🚀 **Problem Solver**
 
-I'm a **Full Stack Developer** with **6 months of freelance experience** building responsive and scalable web applications. My primary expertise is in the **MERN Stack**, with experience extending to **TypeScript** and **Fastify** for developing modern, high-performance applications.
+I'm a **Full Stack Developer** with **a year of freelance experience** building responsive and scalable web applications. My primary expertise is in the **MERN Stack**, with experience extending to **TypeScript** and **Fastify** for developing modern, high-performance applications.
 
 Alongside software development, I have a strong background in **database management**, **data analysis**, and transforming data into actionable insights. I enjoy building efficient systems, writing clean and maintainable code, and continuously learning new technologies.
 
